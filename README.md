@@ -41,7 +41,7 @@ Melissa Bot Multi Device is a automated whatsapp bot created by <a href="https:/
 
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY:-  [Here](https://github.com/TechoYT/Queen-Melissa-Beta)
+- FORK THE REPOSITORY:-  [Here](https://github.com/Aliraza357/Queen-Melissa-Beta)
 
 ## `Scan QR Code For Session`
 [![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@SenuBoy/Queen-Melissa-QR?v=1#index.js)
